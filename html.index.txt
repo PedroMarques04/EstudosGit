@@ -1,8 +1,8 @@
-  <li>Integração Continua</li>
+ <li>Integração Continua</li>
     </ul>
+    <li> Curso de programação<li>
 
-     <li> Curso: Ansible <li>
-    <Footer>Página desenvolvida pelos estagiários</Footer>
-    <Footer>Página desenvolvida pelos estagiários do Processo de Formação</Footer>
+    <Footer>Página desenvolvida pelos estagiários do Processo de Formação!! =D</Footer>
+
   </body>
 </html>
