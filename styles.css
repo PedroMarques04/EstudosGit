@@ -2,6 +2,13 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body{
+    font-family: 'Inter', 'sans-serif';
+    font-size: 1.5rem;
+    background-color: #1B2430;
+    color: #F6F6F6;
+}
+
 h1{
     text-align: center;
     margin: auto;
