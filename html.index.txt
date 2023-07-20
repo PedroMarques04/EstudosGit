@@ -1,17 +1,8 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Cursos da Alura</title>
-</head>
-<body>
-    <ul>
-         <h1> Cursos de DevOps <h1>
-        <li>Vagrant:gerenciando maquina virtual</li>
-        <li>Docker:Criando containers sem dor de cabeça </li>
-        <li>Ansible</li>
-        <li>Integração Continua:maturidade</li>
-        <li>kubernetes</li>
+  <li>Integração Continua</li>
     </ul>
-</body>
+
+     <li> Curso: Ansible <li>
+    <Footer>Página desenvolvida pelos estagiários</Footer>
+    <Footer>Página desenvolvida pelos estagiários do Processo de Formação</Footer>
+  </body>
 </html>
