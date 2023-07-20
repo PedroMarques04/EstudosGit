@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Inter', 'sans-serif';
+    font-size: 1.5rem;
+    background-color: #1B2430;
+    color: #F6F6F6;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+}
+
+ul{
+    color: white;
+}
+
+.rodape{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1B2430;
+    height: auto;
+    width: 100vw;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: #fff;
+    text-align: center;
+}
+.ListaDeCursos_title
+{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
